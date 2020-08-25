@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: url("http://www.blended-html.com/background-images/bi-background-html-css.png")
+}
+
+h1,h2,p, li{
+    color: white;
+    font-size: 25px
+}
+a{
+    color: skyblue;
+}
